@@ -16,7 +16,7 @@ Contributors:
 	<version>1.0.0-SNAPSHOT</version>
 	<artifactId>eclipse-repository</artifactId>
 	<packaging>eclipse-repository</packaging>
-	<name>RCP Example Product</name>
+	<name>RCP Product</name>
 
 	<parent>
 		<version>1.0.0-SNAPSHOT</version>

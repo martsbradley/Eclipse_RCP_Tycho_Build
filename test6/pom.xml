@@ -16,7 +16,7 @@ Contributors:
 	<version>0.1.0-SNAPSHOT</version>
 	<artifactId>test6</artifactId>
 	<packaging>eclipse-plugin</packaging>
-	<name>test6</name>
+	<name>RPC Plugin</name>
 
 	<parent>
 		<version>1.0.0-SNAPSHOT</version>
